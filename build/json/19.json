@@ -1,0 +1,22 @@
+{
+  "name": "0xWF #19",
+  "description": "Wolfpack Finance NFT project",
+  "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/19.png",
+  "custom_fields": {
+    "dna": "51c8d3c452d3231f18a010bc80d75ff9acb0cde8",
+    "edition": 19,
+    "date": 1644123183372,
+    "compiler": "HashLips Art Engine"
+  },
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "navyBlue"
+    },
+    {
+      "trait_type": "Wolves",
+      "value": "Delta"
+    }
+  ]
+}

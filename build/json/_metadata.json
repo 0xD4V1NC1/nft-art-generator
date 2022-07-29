@@ -1,0 +1,552 @@
+[
+  {
+    "name": "0xWF #9",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/9.png",
+    "custom_fields": {
+      "dna": "12c1d6f0bf28ea49bf2322286db622220a3efb95",
+      "edition": 9,
+      "date": 1644123182326,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "electricGreen"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Beta"
+      }
+    ]
+  },
+  {
+    "name": "0xWF #1",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/1.png",
+    "custom_fields": {
+      "dna": "526a07df70dfa5874a655c7b54d5955b86bcf4e4",
+      "edition": 1,
+      "date": 1644123182371,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "electricGreen"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Delta"
+      }
+    ]
+  },
+  {
+    "name": "0xWF #5",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/5.png",
+    "custom_fields": {
+      "dna": "c42d61f1a34c7afa103d6aa83f2b6f6c85567cc4",
+      "edition": 5,
+      "date": 1644123182411,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "electricBlue"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Omega"
+      }
+    ]
+  },
+  {
+    "name": "0xWF #13",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/13.png",
+    "custom_fields": {
+      "dna": "7ca3024bdec8ae3fd1284b0ec7e85e371b9e4396",
+      "edition": 13,
+      "date": 1644123182452,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "electricBlue"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Delta"
+      }
+    ]
+  },
+  {
+    "name": "0xWF #12",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/12.png",
+    "custom_fields": {
+      "dna": "b79d18924d340b82d3a86dce1bb9e68feb5dd3dc",
+      "edition": 12,
+      "date": 1644123182490,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "navyBlue"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Omega"
+      }
+    ]
+  },
+  {
+    "name": "0xWF #10",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/10.png",
+    "custom_fields": {
+      "dna": "ee55f342fd909dbd782e74e5473fa5d87774c5f2",
+      "edition": 10,
+      "date": 1644123182533,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "gold"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Beta"
+      }
+    ]
+  },
+  {
+    "name": "0xWF #11",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/11.png",
+    "custom_fields": {
+      "dna": "e824b4b8f1524d9384a7dcaa3d6fa6273a548b23",
+      "edition": 11,
+      "date": 1644123182571,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "violet"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Omega"
+      }
+    ]
+  },
+  {
+    "name": "0xWF #18",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/18.png",
+    "custom_fields": {
+      "dna": "3f5958f09da83fae24e341a397106f73446f9ea5",
+      "edition": 18,
+      "date": 1644123182611,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "lightRed"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Beta"
+      }
+    ]
+  },
+  {
+    "name": "0xWF #7",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/7.png",
+    "custom_fields": {
+      "dna": "9f98ae1717b09aa736004c9a86e9afd21f124055",
+      "edition": 7,
+      "date": 1644123182653,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "lightGreen"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Beta"
+      }
+    ]
+  },
+  {
+    "name": "0xWF #8",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/8.png",
+    "custom_fields": {
+      "dna": "ca398abfd98a70668c65084c934e5ebb2d2a6edb",
+      "edition": 8,
+      "date": 1644123182692,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "lightGreen"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Omega"
+      }
+    ]
+  },
+  {
+    "name": "0xWF #23",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/23.png",
+    "custom_fields": {
+      "dna": "4cfc3e179e1c40ce22148a71321bbc4957a1a3cc",
+      "edition": 23,
+      "date": 1644123182737,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "electricGreen"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Alpha"
+      }
+    ]
+  },
+  {
+    "name": "0xWF #16",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/16.png",
+    "custom_fields": {
+      "dna": "2c0b45c4fda8329efafb259bec03b76d4326907c",
+      "edition": 16,
+      "date": 1644123182918,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "gradient"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Delta"
+      }
+    ]
+  },
+  {
+    "name": "0xWF #15",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/15.png",
+    "custom_fields": {
+      "dna": "5dc541979831e7f7ac448de6856aea6e58615eee",
+      "edition": 15,
+      "date": 1644123182956,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "bloodRed"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Omega"
+      }
+    ]
+  },
+  {
+    "name": "0xWF #22",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/22.png",
+    "custom_fields": {
+      "dna": "5105ce6f031e1fdbec13c209d3d5faada35165d7",
+      "edition": 22,
+      "date": 1644123182997,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "lightGrey"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Omega"
+      }
+    ]
+  },
+  {
+    "name": "0xWF #24",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/24.png",
+    "custom_fields": {
+      "dna": "bbce50d07b7056f1a2ab6cb0187640d7fcbce09e",
+      "edition": 24,
+      "date": 1644123183058,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "violet"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Delta"
+      }
+    ]
+  },
+  {
+    "name": "0xWF #17",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/17.png",
+    "custom_fields": {
+      "dna": "363c705dbaaaac4bf796ca9fb89cb7b9ee8d6161",
+      "edition": 17,
+      "date": 1644123183113,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "electricBlue"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Beta"
+      }
+    ]
+  },
+  {
+    "name": "0xWF #20",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/20.png",
+    "custom_fields": {
+      "dna": "c8fcba0a8f43bb9adc3200f93c680f965446be32",
+      "edition": 20,
+      "date": 1644123183158,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "navyBlue"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Beta"
+      }
+    ]
+  },
+  {
+    "name": "0xWF #21",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/21.png",
+    "custom_fields": {
+      "dna": "c0237f131039b165f5fabf5d4d4d180b87dab786",
+      "edition": 21,
+      "date": 1644123183197,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "lightRed"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Omega"
+      }
+    ]
+  },
+  {
+    "name": "0xWF #3",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/3.png",
+    "custom_fields": {
+      "dna": "7dfc1c38db9f6f1655397e1ca952ed9fc07e374f",
+      "edition": 3,
+      "date": 1644123183240,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "lightGreen"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Delta"
+      }
+    ]
+  },
+  {
+    "name": "0xWF #14",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/14.png",
+    "custom_fields": {
+      "dna": "55e25a0df11dfb39620f2e27c95158ed4277f927",
+      "edition": 14,
+      "date": 1644123183281,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "gold"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Omega"
+      }
+    ]
+  },
+  {
+    "name": "0xWF #4",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/4.png",
+    "custom_fields": {
+      "dna": "7a1f552c963ff6fb7c7dd61e971d56715e30fdd6",
+      "edition": 4,
+      "date": 1644123183330,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "gold"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Delta"
+      }
+    ]
+  },
+  {
+    "name": "0xWF #19",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/19.png",
+    "custom_fields": {
+      "dna": "51c8d3c452d3231f18a010bc80d75ff9acb0cde8",
+      "edition": 19,
+      "date": 1644123183372,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "navyBlue"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Delta"
+      }
+    ]
+  },
+  {
+    "name": "0xWF #25",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/25.png",
+    "custom_fields": {
+      "dna": "b0d41f1cbb77519aee41b694e71ff15fca759aa8",
+      "edition": 25,
+      "date": 1644123183413,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "lightGrey"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Delta"
+      }
+    ]
+  },
+  {
+    "name": "0xWF #2",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/2.png",
+    "custom_fields": {
+      "dna": "a132946e55481809e5614b2c6979833be1c668b9",
+      "edition": 2,
+      "date": 1644123183452,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "electricGreen"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Omega"
+      }
+    ]
+  },
+  {
+    "name": "0xWF #6",
+    "description": "Wolfpack Finance NFT project",
+    "file_url": "ipfs://Qmaa19gkgzp3vC5o2mDNS9322wSg3CUnLpdjeqyGyn6mG3/6.png",
+    "custom_fields": {
+      "dna": "e881f5683fdeae996f303af95ae7f126221f86ed",
+      "edition": 6,
+      "date": 1644123183496,
+      "compiler": "HashLips Art Engine"
+    },
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "violet"
+      },
+      {
+        "trait_type": "Wolves",
+        "value": "Alpha"
+      }
+    ]
+  }
+]
